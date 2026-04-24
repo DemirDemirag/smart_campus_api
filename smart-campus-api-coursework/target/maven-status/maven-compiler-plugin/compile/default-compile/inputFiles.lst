@@ -1,0 +1,12 @@
+C:\Users\Deniz\Desktop\smart-campus-api-coursework\src\main\java\smartcampus\App.java
+C:\Users\Deniz\Desktop\smart-campus-api-coursework\src\main\java\smartcampus\exceptions\Errors.java
+C:\Users\Deniz\Desktop\smart-campus-api-coursework\src\main\java\smartcampus\mappers\ErrorHandlers.java
+C:\Users\Deniz\Desktop\smart-campus-api-coursework\src\main\java\smartcampus\models\ErrorResponse.java
+C:\Users\Deniz\Desktop\smart-campus-api-coursework\src\main\java\smartcampus\models\Room.java
+C:\Users\Deniz\Desktop\smart-campus-api-coursework\src\main\java\smartcampus\models\Sensor.java
+C:\Users\Deniz\Desktop\smart-campus-api-coursework\src\main\java\smartcampus\models\SensorReading.java
+C:\Users\Deniz\Desktop\smart-campus-api-coursework\src\main\java\smartcampus\resources\RoomsApi.java
+C:\Users\Deniz\Desktop\smart-campus-api-coursework\src\main\java\smartcampus\resources\SensorsApi.java
+C:\Users\Deniz\Desktop\smart-campus-api-coursework\src\main\java\smartcampus\store\DataStore.java
+C:\Users\Deniz\Desktop\smart-campus-api-coursework\src\main\java\smartcampus\support\ApiLoggingFilter.java
+C:\Users\Deniz\Desktop\smart-campus-api-coursework\src\main\java\smartcampus\support\DiscoveryResource.java
